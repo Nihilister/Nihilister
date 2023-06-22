@@ -6,6 +6,7 @@
 
 Jeez i don't even know what you are supposed to write on a README, 
 i might look like one of the most nonsensical user of github there has to be haha
+Oh right ! Don't stare too much, i might look back to ya...
 
 <!---
 Nihilister/Nihilister is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
